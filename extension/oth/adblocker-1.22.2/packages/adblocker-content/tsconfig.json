@@ -1,0 +1,12 @@
+{
+  "extends": "../../tsconfig",
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "dist/cjs",
+    "declarationDir": "dist/types"
+  },
+  "references": [
+    { "path": "../adblocker-extended-selectors/tsconfig.json" },
+  ],
+  "include": ["./adblocker.ts"]
+}

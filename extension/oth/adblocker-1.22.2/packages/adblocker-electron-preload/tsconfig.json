@@ -1,0 +1,15 @@
+{
+  "extends": "../../tsconfig",
+  "compilerOptions": {
+    "composite": true,
+    "outDir": "dist/es6",
+    "module": "es6",
+    "declarationDir": "dist/types"
+  },
+  "references": [
+    { "path": "../adblocker-content/tsconfig.json" }
+  ],
+  "files": [
+    "./preload.ts"
+  ]
+}

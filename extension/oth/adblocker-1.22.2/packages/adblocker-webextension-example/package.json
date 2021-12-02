@@ -1,0 +1,84 @@
+{
+  "name": "@cliqz/adblocker-webextension-example",
+  "private": true,
+  "version": "1.22.2",
+  "description": "Example of WebExtension adblocker using Cliqz",
+  "author": {
+    "name": "Cliqz"
+  },
+  "homepage": "https://github.com/cliqz-oss/adblocker#readme",
+  "license": "MPL-2.0",
+  "files": [
+    "LICENSE",
+    "dist",
+    "manifest.json"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cliqz-oss/adblocker.git",
+    "directory": "packages/adblocker-webextension-example"
+  },
+  "scripts": {
+    "clean": "rimraf dist coverage",
+    "lint": "tslint --config ../../tslint.json --project ./tsconfig.json",
+    "build": "tsc --build ./tsconfig.json",
+    "bundle": "rollup --config ./rollup.config.ts",
+    "watch": "rollup --config ./rollup.config.ts --watch",
+    "prebundle": "yarn build",
+    "start:firefox": "npx web-ext run --source-dir='.'",
+    "start:chromium": "npx web-ext run --source-dir='.' --target chromium"
+  },
+  "bugs": {
+    "url": "https://github.com/cliqz-oss/adblocker/issues"
+  },
+  "dependencies": {
+    "@cliqz/adblocker-webextension": "^1.22.2",
+    "@cliqz/adblocker-webextension-cosmetics": "^1.22.2",
+    "webextension-polyfill-ts": "^0.25.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-commonjs": "^19.0.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "@types/chrome": "^0.0.145",
+    "rimraf": "^3.0.0",
+    "rollup": "^2.48.0",
+    "rollup-plugin-sourcemaps": "^0.6.1",
+    "tslint": "^6.0.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.1.2"
+  },
+  "contributors": [
+    {
+      "name": "Rémi Berson",
+      "email": "remi@cliqz.com"
+    },
+    {
+      "name": "Zhonghao Yu",
+      "email": "zhonghao@cliqz.com"
+    },
+    {
+      "name": "Krzysztof Jan Modras",
+      "email": "chrmod@chrmod.net"
+    },
+    {
+      "name": "Raymond Hill",
+      "email": "gorhill@users.noreply.github.com"
+    },
+    {
+      "name": "Eleni",
+      "email": "eleni@cliqz.com"
+    },
+    {
+      "name": "ecnmst",
+      "email": "ecnmst@users.noreply.github.com"
+    },
+    {
+      "name": "Asif",
+      "email": "arshadasif0312@gmail.com"
+    },
+    {
+      "name": "Anton Lazarev",
+      "email": "antonok35@gmail.com"
+    }
+  ]
+}

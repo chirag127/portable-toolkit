@@ -1,0 +1,218 @@
+09-10-2021 23:38:49 - Patch My PC Started
+09-10-2021 23:38:49 - Checking connection to patchmypc.com
+09-10-2021 23:38:50 - Verified connection to patchmypc.com. Status Code: 200
+09-10-2021 23:38:50 - Getting latest definitions from patchmypc.com
+09-10-2021 23:38:51 - Definition load completed in: 0.29 seconds
+09-10-2021 23:38:51 - Microsoft.Win32.TaskScheduler.dll not found in Global Assembly Cache
+09-10-2021 23:38:51 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutil.exe to C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe
+09-10-2021 23:38:51 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+09-10-2021 23:38:51 - Performing scan of installed applications
+09-10-2021 23:38:51 - Scan completed in: 0.71 seconds
+09-10-2021 23:38:51 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutil.exe.config to C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe.config
+09-10-2021 23:38:52 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutlrc.dll to C:\Users\hp\AppData\Roaming\PatchMyPC\1033\gacutlrc.dll
+09-10-2021 23:38:53 - Downloading: https://patchmypc.com/freeupdater/applications/taskschedulerv4.0/Microsoft.Win32.TaskScheduler.dll to C:\Users\hp\AppData\Roaming\PatchMyPC\Microsoft.Win32.TaskScheduler.dll
+09-10-2021 23:38:54 - Running: C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe /i C:\Users\hp\AppData\Roaming\PatchMyPC\Microsoft.Win32.TaskScheduler.dll
+09-10-2021 23:41:12 - Patch My PC 4.2.0.4 | Definitions: 08-Oct-2021 | 09-10-2021 23:41:12
+
+09-10-2021 23:41:12 - OS: Microsoft Windows 11 Home Single Language x64
+
+09-10-2021 23:41:12 - 7 App(s) to install or update...
+09-10-2021 23:41:12 - Download URL: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+09-10-2021 23:41:13 - Download Path: C:\PatchMyPCUpdates\PotPlayer 210929 (x64).exe
+09-10-2021 23:41:13 - Download size: 28.65 MB
+09-10-2021 23:41:13 - Download Starting for: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+09-10-2021 23:41:13 - Downloading PotPlayer 210929 (x64) (28.65 MB)
+09-10-2021 23:41:16 - Cancelling update process please wait...
+09-10-2021 23:41:16 - Download stopped due to cancel request
+09-10-2021 23:41:16 - Skipping install for VLC media player 3.0.16 (x64) since update process Is cancelling
+09-10-2021 23:41:16 - Skipping install for Unchecky 1.2 since update process Is cancelling
+09-10-2021 23:41:16 - Skipping install for CodeBlocks 20.03 since update process Is cancelling
+09-10-2021 23:41:16 - Skipping install for Git 2.33.0.2 (x64) since update process Is cancelling
+09-10-2021 23:41:16 - Skipping install for GitHub Desktop 2.9.4 (x64) since update process Is cancelling
+09-10-2021 23:41:16 - Skipping install for Visual Studio Code 1.61 (x64) since update process Is cancelling
+09-10-2021 23:41:16 - 
+Patch My PC Update Complete 09-10-2021 23:41:16
+09-10-2021 23:59:47 - Patch My PC Started
+09-10-2021 23:59:47 - Checking connection to patchmypc.com
+09-10-2021 23:59:48 - Verified connection to patchmypc.com. Status Code: 200
+09-10-2021 23:59:48 - Getting latest definitions from patchmypc.com
+09-10-2021 23:59:48 - Definition load completed in: 0.18 seconds
+09-10-2021 23:59:48 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+09-10-2021 23:59:48 - Performing scan of installed applications
+09-10-2021 23:59:49 - Scan completed in: 0.55 seconds
+10-10-2021 20:16:14 - Patch My PC Started
+10-10-2021 20:16:14 - Checking connection to patchmypc.com
+10-10-2021 20:16:17 - Verified connection to patchmypc.com. Status Code: 200
+10-10-2021 20:16:17 - Getting latest definitions from patchmypc.com
+10-10-2021 20:16:18 - Definition load completed in: 0.35 seconds
+10-10-2021 20:16:18 - Microsoft.Win32.TaskScheduler.dll not found in Global Assembly Cache
+10-10-2021 20:16:18 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutil.exe to C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe
+10-10-2021 20:16:18 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+10-10-2021 20:16:18 - Performing scan of installed applications
+10-10-2021 20:16:19 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutil.exe.config to C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe.config
+10-10-2021 20:16:19 - Scan completed in: 0.87 seconds
+10-10-2021 20:16:20 - Downloading: https://patchmypc.com/freeupdater/applications/taskscheduler/gacutlrc.dll to C:\Users\hp\AppData\Roaming\PatchMyPC\1033\gacutlrc.dll
+10-10-2021 20:16:20 - Downloading: https://patchmypc.com/freeupdater/applications/taskschedulerv4.0/Microsoft.Win32.TaskScheduler.dll to C:\Users\hp\AppData\Roaming\PatchMyPC\Microsoft.Win32.TaskScheduler.dll
+10-10-2021 20:16:21 - Running: C:\Users\hp\AppData\Roaming\PatchMyPC\gacutil.exe /i C:\Users\hp\AppData\Roaming\PatchMyPC\Microsoft.Win32.TaskScheduler.dll
+10-10-2021 20:16:59 - Patch My PC 4.2.0.4 | Definitions: 10-Oct-2021 | 10-10-2021 20:16:59
+
+10-10-2021 20:17:00 - OS: Microsoft Windows 11 Home Single Language x64
+
+10-10-2021 20:17:00 - 3 App(s) to install or update...
+10-10-2021 20:17:00 - Download URL: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+10-10-2021 20:17:01 - Download Path: C:\PatchMyPCUpdates\PotPlayer 210929 (x64).exe
+10-10-2021 20:17:01 - Download size: 28.65 MB
+10-10-2021 20:17:01 - Download Starting for: https://t1.daumcdn.net/potplayer/PotPlayer/Version/Latest/PotPlayerSetup64.exe
+10-10-2021 20:17:01 - Downloading PotPlayer 210929 (x64) (28.65 MB)
+10-10-2021 20:17:09 - Total download time in seconds: 7.33
+10-10-2021 20:17:09 - Install Command: /S
+10-10-2021 20:17:09 - PotPlayer 210929 (x64) Downloaded Successfully
+10-10-2021 20:17:09 - Silently install PotPlayer 210929 (x64)
+10-10-2021 20:17:28 - Install Successful for PotPlayer 210929 (x64)
+
+10-10-2021 20:17:28 - Deleted file: C:\PatchMyPCUpdates\PotPlayer 210929 (x64).exe
+10-10-2021 20:17:28 - Download URL: https://download.videolan.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe
+10-10-2021 20:17:31 - Download Path: C:\PatchMyPCUpdates\VLC media player 3.0.16 (x64).exe
+10-10-2021 20:17:31 - Download size: 40.78 MB
+10-10-2021 20:17:31 - Downloading VLC media player 3.0.16 (x64) (40.78 MB)
+10-10-2021 20:17:31 - Download Starting for: https://download.videolan.org/pub/videolan/vlc/3.0.16/win64/vlc-3.0.16-win64.exe
+10-10-2021 20:17:42 - Total download time in seconds: 11.33
+10-10-2021 20:17:42 - Install Command: /S
+10-10-2021 20:17:42 - VLC media player 3.0.16 (x64) Downloaded Successfully
+10-10-2021 20:17:42 - Silently install VLC media player 3.0.16 (x64)
+10-10-2021 20:18:55 - Install Successful for VLC media player 3.0.16 (x64)
+
+10-10-2021 20:18:55 - Deleted file: C:\PatchMyPCUpdates\VLC media player 3.0.16 (x64).exe
+10-10-2021 20:18:56 - Download URL: https://www.7-zip.org/a/7z1900-x64.msi
+10-10-2021 20:18:59 - Download Path: C:\PatchMyPCUpdates\7-Zip 19.00 (x64).msi
+10-10-2021 20:18:59 - Download size: 1.67 MB
+10-10-2021 20:18:59 - Download Starting for: https://www.7-zip.org/a/7z1900-x64.msi
+10-10-2021 20:18:59 - Downloading 7-Zip 19.00 (x64) (1.67 MB)
+10-10-2021 20:19:01 - Total download time in seconds: 2.58
+10-10-2021 20:19:01 - Install Command: /qn REBOOT=REALLYSUPPRESS MSIRMSHUTDOWN=2
+10-10-2021 20:19:01 - 7-Zip 19.00 (x64) Downloaded Successfully
+10-10-2021 20:19:01 - Silently install 7-Zip 19.00 (x64)
+10-10-2021 20:19:02 - Install Successful for 7-Zip 19.00 (x64)
+
+10-10-2021 20:19:02 - Deleted file: C:\PatchMyPCUpdates\7-Zip 19.00 (x64).msi
+10-10-2021 20:19:02 - 
+Patch My PC Update Complete 10-10-2021 20:19:02
+10-10-2021 20:26:17 - Patch My PC 4.2.0.4 | Definitions: 10-Oct-2021 | 10-10-2021 20:26:17
+
+10-10-2021 20:26:17 - OS: Microsoft Windows 11 Home Single Language x64
+
+10-10-2021 20:26:17 - 2 App(s) to install or update...
+10-10-2021 20:26:17 - Download URL: https://desktop.githubusercontent.com/github-desktop/releases/2.9.4-24101633/GitHubDesktopSetup-x64.exe
+10-10-2021 20:26:18 - Download Path: C:\PatchMyPCUpdates\GitHub Desktop 2.9.4 (x64).exe
+10-10-2021 20:26:18 - Downloading GitHub Desktop 2.9.4 (x64) (109.84 MB)
+10-10-2021 20:26:18 - Download Starting for: https://desktop.githubusercontent.com/github-desktop/releases/2.9.4-24101633/GitHubDesktopSetup-x64.exe
+10-10-2021 20:26:36 - Total download time in seconds: 18.55
+10-10-2021 20:26:36 - Install Command: 
+10-10-2021 20:26:36 - GitHub Desktop 2.9.4 (x64) Downloaded Successfully
+10-10-2021 20:26:36 - Silently install GitHub Desktop 2.9.4 (x64)
+10-10-2021 20:26:39 - Install Successful for GitHub Desktop 2.9.4 (x64)
+
+10-10-2021 20:26:39 - Unable to delete: C:\PatchMyPCUpdates\GitHub Desktop 2.9.4 (x64).exe file may be in use
+10-10-2021 20:26:39 - Download URL: https://download.toolslib.net/download/direct/1/latest?channel=release
+10-10-2021 20:26:39 - Using Default Download Path:   C:\Users\hp\OneDrive\Desktop\PortableApps
+10-10-2021 20:27:22 - Failed to get download information for AdwCleaner Download URL: https://download.toolslib.net/download/direct/1/latest?channel=release
+
+10-10-2021 20:27:22 - 
+Patch My PC Update Complete 10-10-2021 20:27:22
+12-10-2021 20:29:01 - Patch My PC Started
+12-10-2021 20:29:01 - Checking connection to patchmypc.com
+12-10-2021 20:29:02 - Verified connection to patchmypc.com. Status Code: 200
+12-10-2021 20:29:02 - Getting latest definitions from patchmypc.com
+12-10-2021 20:29:02 - Definition load completed in: 0.15 seconds
+12-10-2021 20:29:02 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+12-10-2021 20:29:02 - Performing scan of installed applications
+12-10-2021 20:29:02 - Scan completed in: 0.49 seconds
+12-10-2021 20:29:25 - Patch My PC 4.2.0.4 | Definitions: 11-Oct-2021 | 12-10-2021 20:29:25
+
+12-10-2021 20:29:25 - OS: Microsoft Windows 11 Home Single Language x64
+
+12-10-2021 20:29:25 - 1 App(s) to install or update...
+12-10-2021 20:29:25 - Download URL: https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe
+12-10-2021 20:29:28 - Download Path: C:\PatchMyPCUpdates\TreeSize Free 4.5.2.exe
+12-10-2021 20:29:28 - Download size: 8.96 MB
+12-10-2021 20:29:28 - Download Starting for: https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe
+12-10-2021 20:29:28 - Downloading TreeSize Free 4.5.2 (8.96 MB)
+12-10-2021 20:33:30 - Total download time in seconds: 242.20
+12-10-2021 20:33:30 - Install Command: /VERYSILENT /NOCLOSEAPPLICATIONS /NORESTARTAPPLICATIONS /NORESTART
+12-10-2021 20:33:30 - TreeSize Free 4.5.2 Downloaded Successfully
+12-10-2021 20:33:30 - Silently install TreeSize Free 4.5.2
+12-10-2021 20:33:37 - Install Successful for TreeSize Free 4.5.2
+
+12-10-2021 20:33:37 - Deleted file: C:\PatchMyPCUpdates\TreeSize Free 4.5.2.exe
+12-10-2021 20:33:37 - Download URL: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.4.7.134-1.0.1464-1.0.45264.exe
+12-10-2021 20:33:38 - Download Path: C:\PatchMyPCUpdates\Malwarebytes 4.4.7.exe
+12-10-2021 20:33:38 - Download size: 187.05 MB
+12-10-2021 20:33:38 - Download Starting for: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.4.7.134-1.0.1464-1.0.45264.exe
+12-10-2021 20:33:38 - Downloading Malwarebytes 4.4.7 (187.05 MB)
+12-10-2021 20:50:50 - Cancelling update process please wait...
+12-10-2021 20:50:51 - Download stopped due to cancel request
+12-10-2021 20:50:51 - 
+Patch My PC Update Complete 12-10-2021 20:50:51
+15-10-2021 03:30:53 - Patch My PC Started
+15-10-2021 03:30:53 - Checking connection to patchmypc.com
+15-10-2021 03:30:54 - Verified connection to patchmypc.com. Status Code: 200
+15-10-2021 03:30:55 - Getting latest definitions from patchmypc.com
+15-10-2021 03:30:56 - Definition load completed in: 1.93 seconds
+15-10-2021 03:30:56 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+15-10-2021 03:30:57 - Performing scan of installed applications
+15-10-2021 03:30:57 - Scan completed in: 0.53 seconds
+15-10-2021 03:31:09 - Patch My PC 4.2.0.4 | Definitions: 14-Oct-2021 | 15-10-2021 03:31:09
+
+15-10-2021 03:31:09 - OS: Microsoft Windows 11 Home Single Language x64
+
+15-10-2021 03:31:09 - 1 App(s) to install or update...
+15-10-2021 03:31:09 - Download URL: https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/Git-2.33.1-64-bit.exe
+15-10-2021 03:31:11 - Download Path: C:\PatchMyPCUpdates\Git 2.33.1 (x64).exe
+15-10-2021 03:31:11 - Download size: 47.86 MB
+15-10-2021 03:31:11 - Download Starting for: https://github.com/git-for-windows/git/releases/download/v2.33.1.windows.1/Git-2.33.1-64-bit.exe
+15-10-2021 03:31:11 - Downloading Git 2.33.1 (x64) (47.86 MB)
+15-10-2021 03:31:30 - Total download time in seconds: 19.20
+15-10-2021 03:31:30 - Install Command: /VERYSILENT /NORESTART /NOCLOSEAPPLICATIONS /SP-
+15-10-2021 03:31:30 - Git 2.33.1 (x64) Downloaded Successfully
+15-10-2021 03:31:30 - Silently install Git 2.33.1 (x64)
+15-10-2021 03:31:55 - Install Successful for Git 2.33.1 (x64)
+
+15-10-2021 03:31:55 - Deleted file: C:\PatchMyPCUpdates\Git 2.33.1 (x64).exe
+15-10-2021 03:31:55 - 
+Patch My PC Update Complete 15-10-2021 03:31:55
+15-11-2021 21:10:41 - Patch My PC Started
+15-11-2021 21:10:41 - Checking connection to patchmypc.com
+15-11-2021 21:10:42 - Verified connection to patchmypc.com. Status Code: 200
+15-11-2021 21:10:42 - Getting latest definitions from patchmypc.com
+15-11-2021 21:10:43 - Definition load completed in: 0.60 seconds
+15-11-2021 21:10:43 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+15-11-2021 21:10:43 - Performing scan of installed applications
+15-11-2021 21:10:43 - Scan completed in: 0.52 seconds
+15-11-2021 21:10:55 - Patch My PC 4.2.0.4 | Definitions: 15-Nov-2021 | 15-11-2021 21:10:55
+
+15-11-2021 21:10:55 - OS: Microsoft Windows 11 Home Single Language x64
+
+15-11-2021 21:10:55 - 2 App(s) to install or update...
+15-11-2021 21:10:55 - Download URL: https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD2BB0CDC-67E0-DFC3-7A6F-7D2C7C2B8F89%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dtrue%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
+15-11-2021 21:10:55 - Download Path: C:\PatchMyPCUpdates\Google Chrome 96.0.4664.45.exe
+15-11-2021 21:10:55 - Download size: 78.61 MB
+15-11-2021 21:10:55 - Download Starting for: https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BD2BB0CDC-67E0-DFC3-7A6F-7D2C7C2B8F89%7D%26lang%3Den%26browser%3D3%26usagestats%3D0%26appname%3DGoogle%2520Chrome%26needsadmin%3Dtrue%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/chrome/install/ChromeStandaloneSetup64.exe
+15-11-2021 21:10:55 - Downloading Google Chrome 96.0.4664.45 (78.61 MB)
+15-11-2021 21:11:16 - Cancelling update process please wait...
+15-11-2021 21:11:17 - Download stopped due to cancel request
+15-11-2021 21:11:17 - Skipping install for Malwarebytes 4.4.10 since update process Is cancelling
+15-11-2021 21:11:17 - 
+Patch My PC Update Complete 15-11-2021 21:11:17
+15-11-2021 21:11:34 - OS: Microsoft Windows 11 Home Single Language x64
+
+15-11-2021 21:11:34 - 1 App(s) to install or update...
+15-11-2021 21:11:34 - Patch My PC 4.2.0.4 | Definitions: 15-Nov-2021 | 15-11-2021 21:11:34
+
+15-11-2021 21:11:34 - Download URL: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.4.10.144-1.0.1499-1.0.46786.exe
+15-11-2021 21:11:34 - Download Path: C:\PatchMyPCUpdates\Malwarebytes 4.4.10.exe
+15-11-2021 21:11:34 - Download size: 195.4 MB
+15-11-2021 21:11:34 - Download Starting for: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.4.10.144-1.0.1499-1.0.46786.exe
+15-11-2021 21:11:35 - Cancelling update process please wait...
+15-11-2021 21:11:36 - Download stopped due to cancel request
+15-11-2021 21:11:36 - 
+Patch My PC Update Complete 15-11-2021 21:11:36

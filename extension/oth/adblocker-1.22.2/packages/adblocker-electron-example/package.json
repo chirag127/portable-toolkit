@@ -1,0 +1,74 @@
+{
+  "name": "@cliqz/adblocker-electron-example",
+  "private": true,
+  "version": "1.22.2",
+  "description": "Cliqz adblocker Puppeteer wrapper",
+  "author": {
+    "name": "Cliqz"
+  },
+  "homepage": "https://github.com/cliqz-oss/adblocker#readme",
+  "license": "MPL-2.0",
+  "files": [
+    "LICENSE",
+    "index.ts",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cliqz-oss/adblocker.git",
+    "directory": "packages/adblocker-electron-example"
+  },
+  "scripts": {
+    "start": "electron index.js",
+    "lint": "tslint --config ../../tslint.json --project ./tsconfig.json"
+  },
+  "bugs": {
+    "url": "https://github.com/cliqz-oss/adblocker/issues"
+  },
+  "contributors": [
+    {
+      "name": "Rémi Berson",
+      "email": "remi@cliqz.com"
+    },
+    {
+      "name": "Zhonghao Yu",
+      "email": "zhonghao@cliqz.com"
+    },
+    {
+      "name": "Krzysztof Jan Modras",
+      "email": "chrmod@chrmod.net"
+    },
+    {
+      "name": "Raymond Hill",
+      "email": "gorhill@users.noreply.github.com"
+    },
+    {
+      "name": "Eleni",
+      "email": "eleni@cliqz.com"
+    },
+    {
+      "name": "ecnmst",
+      "email": "ecnmst@users.noreply.github.com"
+    },
+    {
+      "name": "Asif",
+      "email": "arshadasif0312@gmail.com"
+    },
+    {
+      "name": "Anton Lazarev",
+      "email": "antonok35@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "@cliqz/adblocker-electron": "^1.22.2",
+    "electron": "^13.0.1",
+    "node-fetch": "^2.6.0",
+    "ts-node": "^10.0.0"
+  },
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.4",
+    "tslint": "^6.0.0",
+    "tslint-config-prettier": "^1.18.0",
+    "typescript": "^4.1.2"
+  }
+}
