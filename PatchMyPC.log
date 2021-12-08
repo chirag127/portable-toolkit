@@ -216,3 +216,129 @@ Patch My PC Update Complete 15-11-2021 21:11:17
 15-11-2021 21:11:36 - Download stopped due to cancel request
 15-11-2021 21:11:36 - 
 Patch My PC Update Complete 15-11-2021 21:11:36
+07-12-2021 23:34:29 - Patch My PC Started
+07-12-2021 23:34:29 - Checking connection to patchmypc.com
+07-12-2021 23:34:31 - Verified connection to patchmypc.com. Status Code: 200
+07-12-2021 23:34:31 - Getting latest definitions from patchmypc.com
+07-12-2021 23:34:33 - Definition load completed in: 1.42 seconds
+07-12-2021 23:34:33 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+07-12-2021 23:34:33 - Performing scan of installed applications
+07-12-2021 23:34:33 - Scan completed in: 0.72 seconds
+07-12-2021 23:34:51 - Patch My PC 4.2.0.4 | Definitions: 07-Dec-2021 | 07-12-2021 23:34:51
+
+07-12-2021 23:34:51 - OS: Microsoft Windows 11 Home Single Language x64
+
+07-12-2021 23:34:51 - 5 App(s) to install or update...
+07-12-2021 23:34:51 - Download URL: https://www.7-zip.org/a/7z2106-x64.msi
+07-12-2021 23:34:55 - Download Path: C:\PatchMyPCUpdates\7-Zip 21.06 (x64).msi
+07-12-2021 23:34:55 - Download size: 1.77 MB
+07-12-2021 23:34:55 - Download Starting for: https://www.7-zip.org/a/7z2106-x64.msi
+07-12-2021 23:34:55 - Downloading 7-Zip 21.06 (x64) (1.77 MB)
+07-12-2021 23:35:13 - Total download time in seconds: 18.06
+07-12-2021 23:35:13 - Install Command: /qn REBOOT=REALLYSUPPRESS MSIRMSHUTDOWN=2
+07-12-2021 23:35:13 - 7-Zip 21.06 (x64) Downloaded Successfully
+07-12-2021 23:35:13 - Silently install 7-Zip 21.06 (x64)
+07-12-2021 23:36:16 - Install Successful for 7-Zip 21.06 (x64)
+
+07-12-2021 23:36:16 - Download URL: https://protonvpn.com/download/ProtonVPN_win_v1.24.2.exe
+08-12-2021 11:32:24 - Patch My PC Started
+08-12-2021 11:32:25 - Checking connection to patchmypc.com
+08-12-2021 11:32:25 - Verified connection to patchmypc.com. Status Code: 200
+08-12-2021 11:32:25 - Getting latest definitions from patchmypc.com
+08-12-2021 11:32:25 - Definition load completed in: 0.22 seconds
+08-12-2021 11:32:25 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+08-12-2021 11:32:25 - Performing scan of installed applications
+08-12-2021 11:32:26 - Scan completed in: 0.51 seconds
+08-12-2021 11:32:32 - Patch My PC 4.2.0.4 | Definitions: 07-Dec-2021 | 08-12-2021 11:32:32
+
+08-12-2021 11:32:32 - OS: Microsoft Windows 11 Home Single Language x64
+
+08-12-2021 11:32:32 - 4 App(s) to install or update...
+08-12-2021 11:32:32 - Download URL: https://protonvpn.com/download/ProtonVPN_win_v1.24.2.exe
+08-12-2021 11:32:34 - Download Path: C:\PatchMyPCUpdates\ProtonVPN 1.24.2.exe
+08-12-2021 11:32:34 - Download size: 22.84 MB
+08-12-2021 11:32:34 - Download Starting for: https://protonvpn.com/download/ProtonVPN_win_v1.24.2.exe
+08-12-2021 11:33:52 - Total download time in seconds: 78.49
+08-12-2021 11:33:52 - Install Command: /exenoui /qn REBOOT=ReallySuppress
+08-12-2021 11:33:52 - ProtonVPN 1.24.2 Downloaded Successfully
+08-12-2021 11:33:52 - Silently install ProtonVPN 1.24.2
+08-12-2021 11:34:07 - Install Successful for ProtonVPN 1.24.2
+
+08-12-2021 11:34:07 - Deleted file: C:\PatchMyPCUpdates\ProtonVPN 1.24.2.exe
+08-12-2021 11:34:07 - Download URL: https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe
+08-12-2021 11:34:09 - Download Path: C:\PatchMyPCUpdates\TreeSize Free 4.5.3.exe
+08-12-2021 11:34:09 - Downloading TreeSize Free 4.5.3 (9.02 MB)
+08-12-2021 11:34:09 - Download size: 9.02 MB
+08-12-2021 11:34:09 - Download Starting for: https://downloads.jam-software.de/treesize_free/TreeSizeFreeSetup.exe
+08-12-2021 11:34:34 - Total download time in seconds: 25.52
+08-12-2021 11:34:34 - Install Command: /VERYSILENT /NOCLOSEAPPLICATIONS /NORESTARTAPPLICATIONS /NORESTART
+08-12-2021 11:34:34 - TreeSize Free 4.5.3 Downloaded Successfully
+08-12-2021 11:34:34 - Silently install TreeSize Free 4.5.3
+08-12-2021 11:34:40 - Deleted file: C:\PatchMyPCUpdates\TreeSize Free 4.5.3.exe
+08-12-2021 11:34:40 - Install Successful for TreeSize Free 4.5.3
+
+08-12-2021 11:34:40 - Download URL: https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe
+08-12-2021 11:34:42 - Download Path: C:\PatchMyPCUpdates\Git 2.34.1 (x64).exe
+08-12-2021 11:34:42 - Download size: 48.07 MB
+08-12-2021 11:34:42 - Download Starting for: https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe
+08-12-2021 11:34:42 - Downloading Git 2.34.1 (x64) (48.07 MB)
+08-12-2021 11:35:15 - Total download time in seconds: 32.98
+08-12-2021 11:35:15 - Install Command: /VERYSILENT /NORESTART /NOCLOSEAPPLICATIONS /SP-
+08-12-2021 11:35:15 - Git 2.34.1 (x64) Downloaded Successfully
+08-12-2021 11:35:15 - Silently install Git 2.34.1 (x64)
+08-12-2021 11:35:44 - Install Successful for Git 2.34.1 (x64)
+
+08-12-2021 11:35:44 - Deleted file: C:\PatchMyPCUpdates\Git 2.34.1 (x64).exe
+08-12-2021 11:36:38 - Download URL: https://download.glasswire.com/GlassWireSetup.exe
+08-12-2021 11:36:38 - Killing process GlassWire.exe for installing GlassWire 2.3.369 based on user input
+08-12-2021 11:36:38 - Download Path: C:\PatchMyPCUpdates\GlassWire 2.3.369.exe
+08-12-2021 11:36:38 - Download size: 65.8 MB
+08-12-2021 11:36:38 - Download Starting for: https://download.glasswire.com/GlassWireSetup.exe
+08-12-2021 11:36:38 - Downloading GlassWire 2.3.369 (65.8 MB)
+08-12-2021 11:36:52 - Total download time in seconds: 13.48
+08-12-2021 11:36:52 - Install Command: /S
+08-12-2021 11:36:52 - GlassWire 2.3.369 Downloaded Successfully
+08-12-2021 11:36:52 - Silently install GlassWire 2.3.369
+08-12-2021 11:38:01 - Install Successful for GlassWire 2.3.369
+
+08-12-2021 11:38:01 - Deleted file: C:\PatchMyPCUpdates\GlassWire 2.3.369.exe
+08-12-2021 11:38:01 - 
+Patch My PC Update Complete 08-12-2021 11:38:01
+08-12-2021 12:13:57 - Patch My PC Started
+08-12-2021 12:13:57 - Checking connection to patchmypc.com
+08-12-2021 12:13:57 - Verified connection to patchmypc.com. Status Code: 200
+08-12-2021 12:13:57 - Getting latest definitions from patchmypc.com
+08-12-2021 12:13:57 - Definition load completed in: 0.16 seconds
+08-12-2021 12:13:57 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+08-12-2021 12:13:57 - Performing scan of installed applications
+08-12-2021 12:13:58 - Scan completed in: 0.43 seconds
+08-12-2021 12:14:33 - Patch My PC 4.2.0.4 | Definitions: 07-Dec-2021 | 08-12-2021 12:14:33
+
+08-12-2021 12:14:33 - OS: Microsoft Windows 11 Home Single Language x64
+
+08-12-2021 12:14:33 - 1 App(s) to install or update...
+08-12-2021 12:14:33 - Download URL: https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe
+08-12-2021 12:14:34 - Download Path: C:\PatchMyPCUpdates\Git 2.34.1 (x64).exe
+08-12-2021 12:14:34 - Download size: 48.07 MB
+08-12-2021 12:14:34 - Download Starting for: https://github.com/git-for-windows/git/releases/download/v2.34.1.windows.1/Git-2.34.1-64-bit.exe
+08-12-2021 12:14:34 - Downloading Git 2.34.1 (x64) (48.07 MB)
+08-12-2021 12:14:43 - Total download time in seconds: 9.32
+08-12-2021 12:14:43 - Install Command: /VERYSILENT /NORESTART /NOCLOSEAPPLICATIONS /SP-
+08-12-2021 12:14:43 - Git 2.34.1 (x64) Downloaded Successfully
+08-12-2021 12:14:43 - Silently install Git 2.34.1 (x64)
+08-12-2021 12:15:05 - Install Successful for Git 2.34.1 (x64)
+
+08-12-2021 12:15:05 - Deleted file: C:\PatchMyPCUpdates\Git 2.34.1 (x64).exe
+08-12-2021 12:15:05 - 
+Patch My PC Update Complete 08-12-2021 12:15:05
+08-12-2021 12:18:17 - Patch My PC 4.2.0.4 | Definitions: 07-Dec-2021 | 08-12-2021 12:18:17
+
+08-12-2021 12:18:17 - OS: Microsoft Windows 11 Home Single Language x64
+
+08-12-2021 12:18:17 - 1 App(s) to install or update...
+08-12-2021 12:18:17 - Download URL: https://download.toolslib.net/download/direct/1/latest?channel=release
+08-12-2021 12:18:17 - Using Default Download Path:   C:\Users\hp\OneDrive\Desktop\PortableApps
+08-12-2021 12:19:00 - Failed to get download information for AdwCleaner Download URL: https://download.toolslib.net/download/direct/1/latest?channel=release
+
+08-12-2021 12:19:00 - 
+Patch My PC Update Complete 08-12-2021 12:19:00
