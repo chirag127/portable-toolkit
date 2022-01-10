@@ -342,3 +342,78 @@ Patch My PC Update Complete 08-12-2021 12:15:05
 
 08-12-2021 12:19:00 - 
 Patch My PC Update Complete 08-12-2021 12:19:00
+09-01-2022 13:28:40 - Patch My PC Started
+09-01-2022 13:28:40 - Checking connection to patchmypc.com
+09-01-2022 13:28:40 - Verified connection to patchmypc.com. Status Code: 200
+09-01-2022 13:28:40 - Getting latest definitions from patchmypc.com
+09-01-2022 13:28:40 - Definition load completed in: 0.19 seconds
+09-01-2022 13:28:40 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+09-01-2022 13:28:40 - Performing scan of installed applications
+09-01-2022 13:28:41 - Scan completed in: 0.55 seconds
+09-01-2022 13:29:14 - Patch My PC 4.2.0.4 | Definitions: 08-Jan-2022 | 09-01-2022 13:29:14
+
+09-01-2022 13:29:14 - OS: Microsoft Windows 11 Home Single Language x64
+
+09-01-2022 13:29:14 - 2 App(s) to install or update...
+09-01-2022 13:29:14 - Download URL: https://www.7-zip.org/a/7z2107-x64.msi
+09-01-2022 13:29:18 - Download Path: C:\PatchMyPCUpdates\7-Zip 21.07 (x64).msi
+09-01-2022 13:29:18 - Download size: 1.78 MB
+09-01-2022 13:29:18 - Download Starting for: https://www.7-zip.org/a/7z2107-x64.msi
+09-01-2022 13:29:18 - Downloading 7-Zip 21.07 (x64) (1.78 MB)
+09-01-2022 13:29:24 - Total download time in seconds: 5.90
+09-01-2022 13:29:24 - 7-Zip 21.07 (x64) Downloaded Successfully
+09-01-2022 13:29:24 - Install Command: /qn REBOOT=REALLYSUPPRESS MSIRMSHUTDOWN=2
+09-01-2022 13:29:24 - Silently install 7-Zip 21.07 (x64)
+09-01-2022 13:33:01 - Patch My PC Started
+09-01-2022 13:33:01 - Checking connection to patchmypc.com
+09-01-2022 13:33:02 - Verified connection to patchmypc.com. Status Code: 200
+09-01-2022 13:33:02 - Getting latest definitions from patchmypc.com
+09-01-2022 13:33:02 - Definition load completed in: 0.21 seconds
+09-01-2022 13:33:02 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+09-01-2022 13:33:02 - Performing scan of installed applications
+09-01-2022 13:33:03 - Scan completed in: 0.52 seconds
+09-01-2022 13:33:12 - Patch My PC 4.2.0.4 | Definitions: 08-Jan-2022 | 09-01-2022 13:33:12
+
+09-01-2022 13:33:12 - OS: Microsoft Windows 11 Home Single Language x64
+
+09-01-2022 13:33:12 - 1 App(s) to install or update...
+09-01-2022 13:33:12 - Download URL: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.0.152-1.0.1538-1.0.48564.exe
+09-01-2022 13:33:15 - Download Path: C:\PatchMyPCUpdates\Malwarebytes 4.5.exe
+09-01-2022 13:33:15 - Download size: 183.43 MB
+09-01-2022 13:33:15 - Download Starting for: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.0.152-1.0.1538-1.0.48564.exe
+09-01-2022 13:33:15 - Downloading Malwarebytes 4.5 (183.43 MB)
+09-01-2022 13:34:14 - Total download time in seconds: 58.71
+09-01-2022 13:34:14 - Install Command: /VERYSILENT /NOCLOSEAPPLICATIONS /NORESTARTAPPLICATIONS /NORESTART /SP- /SUPPRESSMSGBOXES
+09-01-2022 13:34:14 - Malwarebytes 4.5 Downloaded Successfully
+09-01-2022 13:34:14 - Silently install Malwarebytes 4.5
+09-01-2022 13:35:05 - Install Successful for Malwarebytes 4.5
+
+09-01-2022 13:35:05 - Deleted file: C:\PatchMyPCUpdates\Malwarebytes 4.5.exe
+09-01-2022 13:35:05 - 
+Patch My PC Update Complete 09-01-2022 13:35:05
+10-01-2022 13:39:45 - Patch My PC Started
+10-01-2022 13:39:45 - Checking connection to patchmypc.com
+10-01-2022 13:39:46 - Verified connection to patchmypc.com. Status Code: 200
+10-01-2022 13:39:46 - Getting latest definitions from patchmypc.com
+10-01-2022 13:39:46 - Definition load completed in: 0.32 seconds
+10-01-2022 13:39:46 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
+10-01-2022 13:39:46 - Performing scan of installed applications
+10-01-2022 13:39:47 - Scan completed in: 0.57 seconds
+10-01-2022 13:40:17 - Patch My PC 4.2.0.4 | Definitions: 09-Jan-2022 | 10-01-2022 13:40:17
+
+10-01-2022 13:40:17 - OS: Microsoft Windows 11 Home Single Language x64
+
+10-01-2022 13:40:17 - 1 App(s) to install or update...
+10-01-2022 13:40:17 - Download URL: https://www.7-zip.org/a/7z2107-x64.msi
+10-01-2022 13:40:22 - Download Path: C:\PatchMyPCUpdates\7-Zip 21.07 (x64).msi
+10-01-2022 13:40:22 - Download size: 1.78 MB
+10-01-2022 13:40:22 - Download Starting for: https://www.7-zip.org/a/7z2107-x64.msi
+10-01-2022 13:40:22 - Downloading 7-Zip 21.07 (x64) (1.78 MB)
+10-01-2022 13:40:24 - Total download time in seconds: 2.08
+10-01-2022 13:40:24 - Install Command: /qn REBOOT=REALLYSUPPRESS MSIRMSHUTDOWN=2
+10-01-2022 13:40:24 - 7-Zip 21.07 (x64) Downloaded Successfully
+10-01-2022 13:40:24 - Silently install 7-Zip 21.07 (x64)
+10-01-2022 13:40:25 - Install Successful for 7-Zip 21.07 (x64)
+
+10-01-2022 13:40:25 - 
+Patch My PC Update Complete 10-01-2022 13:40:25
