@@ -425,3 +425,100 @@ Patch My PC Update Complete 10-01-2022 13:40:25
 13-01-2022 23:13:33 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.4
 13-01-2022 23:13:33 - Performing scan of installed applications
 13-01-2022 23:13:33 - Scan completed in: 0.59 seconds
+06-04-2022 03:47:27 - Patch My PC Started
+06-04-2022 03:47:27 - Checking connection to patchmypc.com
+06-04-2022 03:47:30 - Verified connection to patchmypc.com. Status Code: 200
+06-04-2022 03:47:30 - Getting latest definitions from patchmypc.com
+06-04-2022 03:47:32 - Definition load completed in: 2.86 seconds
+06-04-2022 03:47:32 - Patch My PC version 4.2.0.4 is running. The latest is 4.2.0.5
+06-04-2022 03:47:32 - Patch My PC Update needed downloading http://patchmypc.com/freeupdater/updates/patchmypc/PatchMyPCUpdater.exe to C:\PatchMyPCUpdates\PatchMyPCUpdater.exe
+06-04-2022 03:47:34 - Updater found starting process: C:\PatchMyPCUpdates\PatchMyPCUpdater.exe Switches: 
+06-04-2022 03:47:34 - Closing main PatchMyPC.exe process
+06-04-2022 03:47:34 - Patch My PC Self Updater 1.1.0.3 Started
+06-04-2022 03:47:34 - Beta Channel not enabled
+06-04-2022 03:47:34 - Download URL: https://patchmypc.com/freeupdater/PatchMyPC.zip
+06-04-2022 03:47:34 - Deleting current Patch My PC File: D:\Critical\Repos\portable\PatchMyPC.exe
+06-04-2022 03:47:34 - Deletion successful
+06-04-2022 03:47:35 - Starting download of https://patchmypc.com/freeupdater/PatchMyPC.zip to C:\WINDOWS\TEMP\x3pewpi5\PMPHomeUpdater.zip
+06-04-2022 03:47:41 - Download complete
+06-04-2022 03:47:41 - Starting: D:\Critical\Repos\portable\PatchMyPC.exe 
+06-04-2022 03:47:41 - Patch My PC Self Updater complete now closing
+06-04-2022 03:47:43 - Patch My PC Started
+06-04-2022 03:47:43 - Checking connection to patchmypc.com
+06-04-2022 03:47:45 - Verified connection to patchmypc.com. Status Code: 200
+06-04-2022 03:47:45 - Getting latest definitions from patchmypc.com
+06-04-2022 03:47:46 - Patch My PC Started
+06-04-2022 03:47:46 - Checking connection to patchmypc.com
+06-04-2022 03:47:48 - Definition load completed in: 2.53 seconds
+06-04-2022 03:47:48 - Patch My PC version 4.2.0.5 is running. The latest is 4.2.0.5
+06-04-2022 03:47:48 - Performing scan of installed applications
+06-04-2022 03:47:48 - Scan completed in: 0.54 seconds
+06-04-2022 03:47:49 - Verified connection to patchmypc.com. Status Code: 200
+06-04-2022 03:47:49 - Getting latest definitions from patchmypc.com
+06-04-2022 03:47:49 - Unable to download the definition file: The process cannot access the file 'C:\Users\hp\AppData\Local\Temp\Home Updater\definitions.xml' because it is being used by another process.
+06-04-2022 03:47:57 - Patch My PC 4.2.0.5 | Definitions: 05-Apr-2022 | 06-04-2022 03:47:57
+
+06-04-2022 03:47:57 - OS: Microsoft Windows 11 Home Single Language x64
+
+06-04-2022 03:47:57 - 3 App(s) to install or update...
+06-04-2022 03:47:57 - Download URL: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
+06-04-2022 03:48:01 - Download Path: C:\PatchMyPCUpdates\Git 2.35.1.2 (x64).exe
+06-04-2022 03:48:01 - Download size: 47.92 MB
+06-04-2022 03:48:01 - Download Starting for: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
+06-04-2022 03:48:01 - Downloading Git 2.35.1.2 (x64) (47.92 MB)
+06-04-2022 03:48:21 - Cancelling update process please wait...
+06-04-2022 03:48:22 - Download stopped due to cancel request
+06-04-2022 03:48:22 - Skipping install for C++ 2022 Redist. 14.31.31103.0 (x64) since update process Is cancelling
+06-04-2022 03:48:22 - Skipping install for qBittorrent 4.4.2 (x64) since update process Is cancelling
+06-04-2022 03:48:22 - 
+Patch My PC Update Complete 06-04-2022 03:48:22
+06-04-2022 03:49:33 - Patch My PC 4.2.0.5 | Definitions: 05-Apr-2022 | 06-04-2022 03:49:33
+
+06-04-2022 03:49:33 - OS: Microsoft Windows 11 Home Single Language x64
+
+06-04-2022 03:49:33 - 2 App(s) to install or update...
+06-04-2022 03:49:33 - Download URL: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
+06-04-2022 03:49:35 - Download Path: C:\PatchMyPCUpdates\Git 2.35.1.2 (x64).exe
+06-04-2022 03:49:35 - Download size: 47.92 MB
+06-04-2022 03:49:35 - Download Starting for: https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
+06-04-2022 03:49:35 - Downloading Git 2.35.1.2 (x64) (47.92 MB)
+06-04-2022 03:50:15 - Total download time in seconds: 40.35
+06-04-2022 03:50:15 - Install Command: /VERYSILENT /NORESTART /NOCLOSEAPPLICATIONS /SP-
+06-04-2022 03:50:15 - Git 2.35.1.2 (x64) Downloaded Successfully
+06-04-2022 03:50:15 - Silently install Git 2.35.1.2 (x64)
+06-04-2022 03:50:36 - Install Successful for Git 2.35.1.2 (x64)
+
+06-04-2022 03:50:36 - Deleted file: C:\PatchMyPCUpdates\Git 2.35.1.2 (x64).exe
+06-04-2022 03:50:36 - Download URL: https://aka.ms/vs/17/release/vc_redist.x64.exe
+06-04-2022 03:50:40 - Download Path: C:\PatchMyPCUpdates\C++ 2022 Redist. 14.31.31103.0 (x64).exe
+06-04-2022 03:50:40 - Download size: 24.14 MB
+06-04-2022 03:50:40 - Download Starting for: https://aka.ms/vs/17/release/vc_redist.x64.exe
+06-04-2022 03:50:40 - Downloading C++ 2022 Redist. 14.31.31103.0 (x64) (24.14 MB)
+06-04-2022 03:51:00 - Total download time in seconds: 19.96
+06-04-2022 03:51:00 - Install Command: /install /quiet /norestart
+06-04-2022 03:51:00 - C++ 2022 Redist. 14.31.31103.0 (x64) Downloaded Successfully
+06-04-2022 03:51:00 - Silently install C++ 2022 Redist. 14.31.31103.0 (x64)
+06-04-2022 03:51:13 - Install Successful for C++ 2022 Redist. 14.31.31103.0 (x64)
+
+06-04-2022 03:51:13 - Deleted file: C:\PatchMyPCUpdates\C++ 2022 Redist. 14.31.31103.0 (x64).exe
+06-04-2022 03:51:13 - 
+Patch My PC Update Complete 06-04-2022 03:51:13
+06-04-2022 03:52:05 - Patch My PC 4.2.0.5 | Definitions: 05-Apr-2022 | 06-04-2022 03:52:05
+
+06-04-2022 03:52:05 - OS: Microsoft Windows 11 Home Single Language x64
+
+06-04-2022 03:52:05 - 1 App(s) to install or update...
+06-04-2022 03:52:05 - Download URL: https://aka.ms/vs/17/release/vc_redist.x86.exe
+06-04-2022 03:52:06 - Download Path: C:\PatchMyPCUpdates\C++ 2022 Redist. 14.31.31103.0 (x86).exe
+06-04-2022 03:52:06 - Download size: 13.09 MB
+06-04-2022 03:52:06 - Download Starting for: https://aka.ms/vs/17/release/vc_redist.x86.exe
+06-04-2022 03:52:06 - Downloading C++ 2022 Redist. 14.31.31103.0 (x86) (13.09 MB)
+06-04-2022 03:52:19 - Total download time in seconds: 12.62
+06-04-2022 03:52:19 - Install Command: /install /quiet /norestart
+06-04-2022 03:52:19 - C++ 2022 Redist. 14.31.31103.0 (x86) Downloaded Successfully
+06-04-2022 03:52:19 - Silently install C++ 2022 Redist. 14.31.31103.0 (x86)
+06-04-2022 03:52:21 - Install Successful for C++ 2022 Redist. 14.31.31103.0 (x86)
+
+06-04-2022 03:52:21 - Deleted file: C:\PatchMyPCUpdates\C++ 2022 Redist. 14.31.31103.0 (x86).exe
+06-04-2022 03:52:21 - 
+Patch My PC Update Complete 06-04-2022 03:52:21
