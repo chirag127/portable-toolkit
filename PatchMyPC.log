@@ -573,3 +573,30 @@ Patch My PC Update Complete 06-04-2022 03:52:21
 
 23-04-2022 17:25:19 - 
 Patch My PC Update Complete 23-04-2022 17:25:19
+09-05-2022 21:58:23 - Patch My PC Started
+09-05-2022 21:58:23 - Checking connection to patchmypc.com
+09-05-2022 21:58:23 - Verified connection to patchmypc.com. Status Code: 200
+09-05-2022 21:58:23 - Getting latest definitions from patchmypc.com
+09-05-2022 21:58:23 - Definition load completed in: 0.15 seconds
+09-05-2022 21:58:23 - Patch My PC version 4.2.0.5 is running. The latest is 4.2.0.5
+09-05-2022 21:58:23 - Performing scan of installed applications
+09-05-2022 21:58:24 - Scan completed in: 0.53 seconds
+09-05-2022 21:58:37 - Patch My PC 4.2.0.5 | Definitions: 09-May-2022 | 09-05-2022 21:58:37
+
+09-05-2022 21:58:37 - OS: Microsoft Windows 11 Home Single Language x64
+
+09-05-2022 21:58:37 - 1 App(s) to install or update...
+09-05-2022 21:58:37 - Download URL: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.9.198-1.0.1676-1.0.54594.exe
+09-05-2022 21:58:38 - Download Path: C:\PatchMyPCUpdates\Malwarebytes 4.5.9.exe
+09-05-2022 21:58:38 - Download size: 259.25 MB
+09-05-2022 21:58:38 - Download Starting for: https://data-cdn.mbamupdates.com/web/mb4-setup-consumer/offline/mb4-setup-consumer-4.5.9.198-1.0.1676-1.0.54594.exe
+09-05-2022 21:58:38 - Downloading Malwarebytes 4.5.9 (259.25 MB)
+09-05-2022 22:03:45 - Total download time in seconds: 306.91
+09-05-2022 22:03:45 - Install Command: /VERYSILENT /NOCLOSEAPPLICATIONS /NORESTARTAPPLICATIONS /NORESTART /SP- /SUPPRESSMSGBOXES
+09-05-2022 22:03:45 - Malwarebytes 4.5.9 Downloaded Successfully
+09-05-2022 22:03:45 - Silently install Malwarebytes 4.5.9
+09-05-2022 22:04:35 - Install Successful for Malwarebytes 4.5.9
+
+09-05-2022 22:04:35 - Deleted file: C:\PatchMyPCUpdates\Malwarebytes 4.5.9.exe
+09-05-2022 22:04:35 - 
+Patch My PC Update Complete 09-05-2022 22:04:35
