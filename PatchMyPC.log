@@ -600,3 +600,6 @@ Patch My PC Update Complete 23-04-2022 17:25:19
 09-05-2022 22:04:35 - Deleted file: C:\PatchMyPCUpdates\Malwarebytes 4.5.9.exe
 09-05-2022 22:04:35 - 
 Patch My PC Update Complete 09-05-2022 22:04:35
+22-06-2022 21:45:11 - Patch My PC Started
+22-06-2022 21:45:11 - Checking connection to patchmypc.com
+22-06-2022 21:45:11 - Unable to connect to patchmypc.com. Please verify you have internet connection And try to browse to https://patchmypc.com. Error: The remote name could not be resolved: 'patchmypc.com'
