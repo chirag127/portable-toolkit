@@ -38,3 +38,8 @@ coverage/
 # OS generated files
 .DS_Store
 Thumbs.db
+Desktop.ini
+
+# Log and backup files
+*.log
+*.bak
